@@ -1,0 +1,23 @@
+{
+  "name": "nodestuff",
+  "version": "1.0.0",
+  "description": "",
+  "main": "scraper.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Zippoffer/nodestuff.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Zippoffer/nodestuff/issues"
+  },
+  "homepage": "https://github.com/Zippoffer/nodestuff#readme",
+  "dependencies": {
+    "cheerio": "^0.22.0",
+    "request": "^2.78.0"
+  }
+}
